@@ -77,7 +77,7 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a> </p>
 
-<img align="left" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><img align="right" alt="Coding" width="450" src="https://github.com/ratanR07/ratanR07/assets/157063244/712370d8-d03a-4d2f-8676-93e29524b071">
+<img align="left" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <!--
 **dsarkar6575/dsarkar6575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
