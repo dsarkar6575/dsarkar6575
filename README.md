@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dipankar Sarkar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanr07" alt="ratanr07" /></a> </p>
+<h3 align="center">A passionate Software Developer from India</h3>
+<p align="left"> <a href="https://github.com/dsarkar6575"><img src="https://github-profile-trophy.vercel.app/?username=dsarkar6575" alt="dsarkar6575" /></a> </p>
 
 - 🔭 I’m currently working on **Smartvage**
 
