@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanr07" alt="ratanr07" /></a> </p>
 
-- 🔭 I’m currently working on **Forex Trade**
+- 🔭 I’m currently working on **Smartvage**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Chat Bot**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsarkar6575](https://github.com/dsarkar6575)
 
-- 💬 Ask me about **SQL,Java, Hibernate ,Spring ,DSA**
+- 💬 Ask me about **SQL,Java, Hibernate ,SpringBoot ,DSA**
 
 - 📫 How to reach me **dipankarsarkar6575@gmail.com**
 
